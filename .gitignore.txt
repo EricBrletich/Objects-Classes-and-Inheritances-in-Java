@@ -1,0 +1,3 @@
+# ignore all Jva compiler generated files
+*.class
+# ignore all IDE settings
